@@ -1,0 +1,16 @@
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\Interfata.exe.config
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\Interfata.exe
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\Interfata.pdb
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\AdministrareStocare.dll
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\LibrarieModele.dll
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\AdministrareStocare.pdb
+C:\Users\Lemmy\source\repos\Interfata\bin\Debug\LibrarieModele.pdb
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.csproj.AssemblyReference.cache
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.Form1.resources
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.csproj.GenerateResource.cache
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.csproj.CoreCompileInputs.cache
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.csproj.CopyComplete
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.exe
+C:\Users\Lemmy\source\repos\Interfata\obj\Debug\Interfata.pdb

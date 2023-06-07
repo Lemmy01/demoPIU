@@ -1,0 +1,9 @@
+C:\Users\Lemmy\source\repos\AdministrareStocare\bin\Debug\AdministrareStocare.dll
+C:\Users\Lemmy\source\repos\AdministrareStocare\bin\Debug\AdministrareStocare.pdb
+C:\Users\Lemmy\source\repos\AdministrareStocare\bin\Debug\LibrarieModele.dll
+C:\Users\Lemmy\source\repos\AdministrareStocare\bin\Debug\LibrarieModele.pdb
+C:\Users\Lemmy\source\repos\AdministrareStocare\obj\Debug\AdministrareStocare.csproj.AssemblyReference.cache
+C:\Users\Lemmy\source\repos\AdministrareStocare\obj\Debug\AdministrareStocare.csproj.CoreCompileInputs.cache
+C:\Users\Lemmy\source\repos\AdministrareStocare\obj\Debug\AdministrareStocare.csproj.CopyComplete
+C:\Users\Lemmy\source\repos\AdministrareStocare\obj\Debug\AdministrareStocare.dll
+C:\Users\Lemmy\source\repos\AdministrareStocare\obj\Debug\AdministrareStocare.pdb
